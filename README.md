@@ -49,12 +49,7 @@
 
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img alt="Rudra's Github Stats" src="https://rudra47-a5ar2i782.vercel.app/api?username=rudra47&show_icons=true&hide_border=true" />
-
-</details>
+  <img align="left" alt="Rudra's Github Stats" src="https://rudra47-a5ar2i782.vercel.app/api?username=rudra47&show_icons=true&hide_border=true" />
 
 [working-website]: https://eduvess.com
 [github]: https://github.com/rudra47
