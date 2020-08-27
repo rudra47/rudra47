@@ -61,6 +61,7 @@
 </details>
 
 [working-website]: https://eduvess.com
+[facebook]: https://www.facebook.com/rudra.sen.47
 [twitter]: https://twitter.com/Rudra1055
 [instagram]: https://instagram.com/rudra__sen
 [linkedin]: https://linkedin.com/in/rudra-sen47
