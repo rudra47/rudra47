@@ -5,10 +5,10 @@
 ## I'm a Developer and Learner!
 
 - 🔭 I’m currently working on a [E-Learning System][working-website]!
-- 🌱 I’m currently learning Js and NodeJs 🤣
+- 🌱 I’m currently learning Js and NodeJs 
 - 👯 I’m looking to collaborate with other Developer
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to watch movie and series
+- ⚡ Fun fact: I love to watch movie and series 🤣
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
