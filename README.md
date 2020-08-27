@@ -52,7 +52,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Rudra's Github Stats" src="https://rudra47.vercel.app/api?username=rudra47&show_icons=true&hide_border=true" />
+  <img align="left" alt="Rudra's Github Stats" src="https://rudra47.vercel.app?username=rudra47&show_icons=true&hide_border=true" />
 
 </details>
 
