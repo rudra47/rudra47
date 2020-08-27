@@ -46,10 +46,10 @@
 - [GSAP Typing Animation | Tween & Timeline Basics (2020)](https://www.youtube.com/watch?v=ZT66N5hBiCE) -->
 <!-- YOUTUBE:END -->
 
-
 ---
 
-[<img align="left" alt="Rudra's Github Stats" src="https://rudra47-a5ar2i782.vercel.app/api?username=rudra47&show_icons=true&hide_border=true" />]
+![Rudra's Github Stats](https://github-readme-stats-smoky-delta.vercel.app
+/api?username=rudra47&show_icons=true&hide_border=true)
 
 [working-website]: https://eduvess.com
 [github]: https://github.com/rudra47
