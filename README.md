@@ -4,7 +4,7 @@
 
 ## I'm a Developer and Learner!
 
-- 🔭 I’m currently working on a [React Js][working-website]!
+- 🔭 I’m currently working on [React Js][working-website]!
 - 🌱 I’m currently learning Js and NodeJs 
 - 👯 I’m looking to collaborate with other Developer
 - 🥅 2020 Goals: Contribute more to Open Source projects
