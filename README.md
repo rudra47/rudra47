@@ -2,7 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/rudra47?style=for-the-badge)
 
-## I'm a Software Developer and Learner!
+## I'm a Software Engineer and Learner!
 
 - 🔭 I’m currently working on [React Js, Laravel]!
 - 🌱 Big fan of JS❤️
