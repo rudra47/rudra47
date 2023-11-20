@@ -10,6 +10,7 @@
 - 🌲 Want to collaborate on React or Laravel Projects 
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch movie and series 🤣
+- 🥇 Problem solving is my passion 🤟
 
 ### Connect with me:
 
