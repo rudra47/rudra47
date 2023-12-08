@@ -1,4 +1,4 @@
-### Hi there, I'm Rudra Sen 👋
+### Hi There, I'm Rudra Sen 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/rudra47?style=for-the-badge)
 
