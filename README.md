@@ -21,6 +21,8 @@
 
 <br />
 
+<a href="https://app.daily.dev/rudrasen"><img src="https://api.daily.dev/devcards/251579fc8cba4b048d5c7da5b81b5c69.png?r=qvv" width="400" alt="Rudra's Dev Card"/></a>
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
